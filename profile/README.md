@@ -2,7 +2,7 @@
 Hi there!
 
 I'm 200mill, also known as 6K5ETX.<br>
-You can find my public projects and services.
+You can find my public projects and services here.
 
 ![kawaii!](https://cdn.discordapp.com/emojis/1461571837900230656.png)
 <br><sub>당신이 이걸 보고있다면 카와이큐트한거 아닐까요?</sub>
