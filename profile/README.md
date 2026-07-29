@@ -11,11 +11,6 @@ You can find my public projects and services here.
 * SW(Rust, C#, Python)
 * Network Infrastructure
 
-## Services
-* [ETX-utility in discord](https://discord.com/oauth2/authorize?client_id=1498559996584263710) : *some features may not work properly.*
-
-
-
 ## Contacts
 * mail : `6K5ETX@zuninemo.com`
 * discord: `@200mill`
