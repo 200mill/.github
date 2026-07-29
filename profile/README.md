@@ -13,7 +13,8 @@ You can find my public projects and services here.
 
 ## Services
 * [ETX-utility in discord](https://discord.com/oauth2/authorize?client_id=1498559996584263710) : *some features may not work properly.*
-* [ETX-gh-utility](https://github.com/apps/etx-gh-utility) : *In test*
+
+
 
 ## Contacts
 * mail : `6K5ETX@zuninemo.com`
