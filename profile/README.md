@@ -12,5 +12,5 @@ You can find my public projects and services here.
 * Network Infrastructure
 
 ## Contacts
-* mail : `6K5ETX@zuninemo.com`
+* mail : `6K5ETX@gmail.com`
 * discord: `@200mill`
