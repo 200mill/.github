@@ -1,3 +1,4 @@
+If you are from Genshin Impact GOTO [minjun1177](https://github.com/minjun1177)
 # 200mill<sub><sub>6K5ETX</sub></sub>
 Hi there!
 
