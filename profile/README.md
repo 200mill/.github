@@ -10,7 +10,6 @@ You can find my public projects and services here.
 
 ## What I do
 * SW(Rust, C#, Python)
-* Network Infrastructure
 
 ## Contacts
 * mail : `6K5ETX@gmail.com`
