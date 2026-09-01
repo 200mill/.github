@@ -9,7 +9,7 @@ You can find my public projects and services here.
 <br><sub>당신이 이걸 보고있다면 카와이큐트한거 아닐까요?</sub>
 
 ## What I do
-* SW(Rust, C#, Python)
+* SW(C#, Python)
 
 ## Contacts
 * mail : `6K5ETX@gmail.com`
